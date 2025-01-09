@@ -1,6 +1,5 @@
-# Seminar
-## Sensor Fusion / Popular Datasets
-### nuscenes visualization
+# Seminar - Sensor Fusion / Popular Datasets
+## Environment
 ```
 $ conda create –n seminar_nuscenes python==3.9 –y && conda activate seminar_nuscenes
 $ mkdir –p seminar_nuscenes
