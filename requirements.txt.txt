@@ -1,0 +1,7 @@
+matplotlib
+Pillow
+numpy<2.0
+pyquaternion
+nuscenes-devkit
+ipykernel
+opencv-python
